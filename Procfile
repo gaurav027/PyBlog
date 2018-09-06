@@ -1,1 +1,1 @@
-web: gunicorn pyblog.wsgi --log-file -
+web: gunicorn SocialMediaTest.wsgi --log-file -
